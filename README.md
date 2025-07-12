@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm D.N.SATHVARA</h1>
-<h3 align="center">I am Full Stack Developer</h3>
-
+<!-- <h3 align="center">I am Full Stack Developer</h3>
+ -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvinsathvara07&show_icons=true&locale=en&layout=compact" alt="dhruvinsathvara07" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvinsathvara07&show_icons=true&locale=en" alt="dhruvinsathvara07" /></p>
